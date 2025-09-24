@@ -1,6 +1,6 @@
 ```markdown
 # frw.sh – Fork-Free File I/O for Bash
-# frwe.sh - frw extended
+# frwe.sh - frw extended - Stream Processing and Enhanced Syntax
 
 **A zero-fork, zero-temp-file solution for file I/O and text processing in pure Bash.**
 Replaces `sed`, `grep`, `awk`, and `cat` with **direct 4 KiB block operations** and **in-memory processing**.
